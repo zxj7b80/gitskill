@@ -1,3 +1,1 @@
-2018.1105 Add README.md file into project "gitskill".
-2018.1105 create branch "dev".
-2018.1106 Add time tag in each line.
+2018.1107 test whether the git could monitor the movtion of files.
